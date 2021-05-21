@@ -11,7 +11,7 @@ github_repo: "https://github.com/Kaka-He/Kaka-He.github.io.git" # you code repos
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "欢迎联系。本网站正在持续更新中。"
+sidebar-about-description: "欢迎联系。本网站正在持续更新中。由于浏览器缓存的原因，你可能无法看到及时的更新，可以使用Ctrl+F5刷新。"
 sidebar-avatar: /img/timg.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
