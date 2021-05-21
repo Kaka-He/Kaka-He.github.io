@@ -1,18 +1,18 @@
 # Site settings
-title: Kaka
-SEOTitle: seotitle
+title: KAKA
+SEOTitle: Cyberroom of Kaka
 header-img: img/wallhaven-x81oeo.jpg
 email: 1006833654@qq.com
-description: "未填充."
-keyword: "待填写"
+description: "Kaka's Blog"
+keyword: "philosophia , poem , philology"
 url: "http://kaka-he.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/Kaka-He/Kaka-He.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "404"
-sidebar-avatar: /img/wallhaven-x81oeo.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "欢迎联系。本网站正在持续更新中。"
+sidebar-avatar: /img/timg.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
