@@ -22,7 +22,9 @@ tags:
 
 クリス　öäü 	θωερὀχξ´·ᾶ	אבשׂדטךֵט 	अफ्घफ्	
 
-测试本地图片上传：![](C:\Users\Administrator\Pictures\2021-05-22 212119.jpg)
+测试本地图片上传：failed
+
+测试通过图床上传图片：![2021-05-22 212119.jpg](https://i.loli.net/2021/05/22/PviIhmgyrqt2VKR.jpg)
 
 ---
 
